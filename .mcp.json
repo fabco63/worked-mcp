@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "worked": {
+      "type": "http",
+      "url": "https://worked.dev/mcp",
+      "headers": {
+        "X-API-Key": "${WORKED_API_KEY}"
+      }
+    }
+  }
+}
